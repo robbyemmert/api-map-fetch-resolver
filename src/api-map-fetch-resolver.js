@@ -21,7 +21,5 @@ export default (url, method, data, options) => {
         redirect: options.redirect
     });
 
-    promise = promise.then(res => res.json());
-
     return promise;
 };
