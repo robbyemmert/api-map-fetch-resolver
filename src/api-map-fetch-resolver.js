@@ -1,3 +1,5 @@
+import fetch from 'whatwg-fetch';
+
 export default (url, method, data, options) => {
 
     let optionalOptions = {

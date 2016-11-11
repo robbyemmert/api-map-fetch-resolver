@@ -76,7 +76,7 @@ var devConfig = {
 }
 
 var buildConfig = {
-    entry: './src/api-map.js',
+    entry: './src/api-map-fetch-resolver.js',
     output: {
         library: 'ApiMapFetchResolver',
         libraryTarget: 'umd',
