@@ -1,6 +1,6 @@
 {
   "name": "api-map-fetch-resolver",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A network resolver that uses ES6 fetch for the api-map package",
   "main": "dist/js/api-map-fetch-resolver.js",
   "repository": {
